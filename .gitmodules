@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vnnikolaidis/universe
+	url = https://github.com/vnnikolaidis/vnnikolaidis.r-universe.dev
 	branch = HEAD
 [submodule "nnlib2Rcpp"]
 	path = nnlib2Rcpp
